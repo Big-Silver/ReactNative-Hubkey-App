@@ -1,0 +1,15 @@
+export const AuthPage = require('../assets/images/authpage.png');
+export const Background = require('../assets/images/background.png');
+export const Authorization = require('../assets/images/authorization.png');
+export const HomeMark = require('../assets/images/mark.png');
+export const Button1 = require('../assets/images/button1.png');
+export const Button2 = require('../assets/images/button2.png');
+export const Button3 = require('../assets/images/button3.png');
+export const User = require('../assets/images/user.png');
+export const Phone = require('../assets/images/phone.png');
+export const Key = require('../assets/images/key.png');
+export const Email = require('../assets/images/email.png');
+export const BottomLine = require('../assets/images/bottomLine.png');
+export const Timer = require('../assets/images/timer.png');
+export const NumberBackground = require('../assets/images/token_code.png');
+export const MessageTail = require('../assets/images/dialog_tail.png');

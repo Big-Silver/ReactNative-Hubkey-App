@@ -1,0 +1,1 @@
+export const apiHost = 'http://ec2-34-201-149-219.compute-1.amazonaws.com';
